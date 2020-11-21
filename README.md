@@ -7,7 +7,7 @@
 [![LS-2ednar's github stats](https://github-readme-stats.vercel.app/api?username=LS-2ednar)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
-[<img align = "center" alt= "Lukas Schaub" | LinkedIn " width ="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/lukas-schaub-bt)
+[<img align = "center" alt= "linkedin" width ="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/lukas-schaub-bt)
 
 <!--
 **LS-2ednar/LS-2ednar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

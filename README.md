@@ -1,4 +1,4 @@
-### Hi there I am LS-2ednar👋
+### Hi, I'm Luke. A guy from Switzerland, who is fascinated by programming :computer: :sparkles:
 
 <!--
 **LS-2ednar/LS-2ednar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

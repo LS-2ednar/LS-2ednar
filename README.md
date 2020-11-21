@@ -8,7 +8,7 @@
 
 ## Connect with me:
 [<img align = "left" alt= "linkedin" width ="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg">](https://www.linkedin.com/in/lukas-schaub-bt)
-[<img align = "right" width = "22px" src="https://image.flaticon.com/icons/png/512/65/65508.png" >]
+<img align = "right" width = "22px" src="https://image.flaticon.com/icons/png/512/65/65508.png" >
 [<img align = "right" width = "22px" src="https://allfacebook.de/wp-content/uploads/2020/02/Twitter_Logo_Blue-300x300.png">](https://twitter.com/thecuriousluke) 
 
 <!--

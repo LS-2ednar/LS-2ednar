@@ -3,7 +3,7 @@
 ## I am currently looking for a part-time job, so let me know if you have a job to offer:smirk:
 
 #### To get an idea of what I do on Github here you go:
-![LS-2ednar's github stats](https://github-readme-stats.vercel.app/api?username=LS-2ednar&hide=contribs)
+![LS-2ednar's github stats](https://github-readme-stats.vercel.app/api?username=LS-2ednar&hide=contribs,issues)
 
 
 #### I use these languages as of now:

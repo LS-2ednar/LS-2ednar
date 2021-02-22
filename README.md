@@ -10,9 +10,8 @@
 [<img align = "left" width = "22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">](https://github.com/LS-2ednar/PAD2020_GenomicSequence_to_Species_Cluster)
 [<img align = "left" width = "22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png">](https://github.com/LS-2ednar/statistics_cheatsheat/tree/main/R)
 <img align = "left" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
-
+<img align = "left" width = "22px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png">
 </br>
-
 ##### Connect with me on the left or follow my twitterbot on the right:
 [<img align = "left" alt= "linkedin" width ="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg">](https://www.linkedin.com/in/lukas-schaub-bt)
 <img align = "right" width = "22px" src="https://image.flaticon.com/icons/png/512/65/65508.png" >

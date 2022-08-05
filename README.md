@@ -1,4 +1,4 @@
-### Hi, I'm Luke. A guy from Switzerland, who is fascinated by programming:computer::sparkles::smirk:
+### Hi, I'm Lukas or Luke. A guy from Switzerland, who is fascinated by programming:computer::sparkles::smirk:
 
 ##### To get an idea of what I do on Github here you go:
 ![LS-2ednar's github stats](https://github-readme-stats.vercel.app/api?username=LS-2ednar&hide=issues)

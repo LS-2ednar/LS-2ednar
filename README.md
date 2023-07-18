@@ -1,9 +1,5 @@
 ### Hi, I'm Lukas or Luke. A guy from Switzerland, who is fascinated by programming:computer::sparkles::smirk:
 
-##### To get an idea of what I do on Github here you go:
-![LS-2ednar's github stats](https://github-readme-stats.vercel.app/api?username=LS-2ednar&hide=issues)
-
-
 ##### I use these languages as of now:
 [<img align = "left" width = "33px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">](https://github.com/LS-2ednar/PAD2020_GenomicSequence_to_Species_Cluster)
 [<img align = "left" width = "33px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png">](https://github.com/LS-2ednar/statistics_cheatsheat/tree/main/R)
